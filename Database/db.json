@@ -1,5 +1,6 @@
 {
     "restaurant": [
-      { "id": 1, "name": "Siddhi Restro", "Address": "Pune" }
+      { "id": 1, "name": "Siddhi Restro", "author": "Sachin" },
+      { "id": 2, "name": "Hatake Restro", "author": "Ved" }
     ]
   }
